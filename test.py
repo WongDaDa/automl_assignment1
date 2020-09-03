@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 import unittest
 
-from solution import AverageRank, GreedyDefaults
+from assignment import AverageRank, GreedyDefaults
 
 
 class TestMetaModels(unittest.TestCase):

@@ -4,6 +4,9 @@ In this assignment, you are expected to implement both
 * average ranking method
 * greedy defaults method
 
+## Video Lectures
+Make sure to have watched the video lectures that belong to the first session. 
+
 ## Files
 This repository consists of four files:
 * assignment.py: This file contains the base classes neccessary to program the assignment
